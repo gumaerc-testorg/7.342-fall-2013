@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b940930c-757b-130c-c0eb-5eaf3b1f46cb
 ---
@@ -27,7 +32,7 @@ READINGS
 {{< tdopen >}}
 Introduction to the Course
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week1)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week1" %}}
 
 
 {{< tdclose >}}
@@ -43,7 +48,7 @@ No Readings
 {{< tdopen >}}
 Mechanobiology of Materials
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week2)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week2" %}}
 
 
 {{< tdclose >}}
@@ -65,7 +70,7 @@ Fu, J., Yang-Kao Wang, et al. "[Mechanical Regulation of Cell Function with Geom
 {{< tdopen >}}
 Controlling Cell Morphology
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week3)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week3" %}}
 
 
 {{< tdclose >}}
@@ -87,7 +92,7 @@ Kilian, K. A., B. Bugarija, et al. "[Geometric Cues for Directing the Differenti
 {{< tdopen >}}
 Altering Gene Expression
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week4)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week4" %}}
 
 
 {{< tdclose >}}
@@ -109,7 +114,7 @@ Hu-Lieskovan, S., J. D. Heidel, et al. "[Sequence-Specific Knockdown of EWS-FLI1
 {{< tdopen >}}
 Biomimetic Signaling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week5)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week5" %}}
 
 
 {{< tdclose >}}
@@ -131,7 +136,7 @@ Storrie, H., M. O. Guler, et al. "[Supramolecular Crafting of Cell Adhesion](htt
 {{< tdopen >}}
 Targeting with Nanoparticles
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week6)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week6" %}}
 
 
 {{< tdclose >}}
@@ -153,7 +158,7 @@ Kievit, F. M., O. Veiseh, et al. "[Chlorotoxin Labeled Magnetic Nanovectors for 
 {{< tdopen >}}
 Materials for Vaccination
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week7)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week7" %}}
 
 
 {{< tdclose >}}
@@ -175,7 +180,7 @@ Scott, E. A., A. Stano, et al. "[Dendritic cell Activation and T Cell Priming wi
 {{< tdopen >}}
 Engineering Vascular Structure
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week8)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week8" %}}
 
 
 {{< tdclose >}}
@@ -197,7 +202,7 @@ Norotte, C., F. S. Marga, et al. "[Scaffold-Free Vascular Tissue Engineering Usi
 {{< tdopen >}}
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week9)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week9" %}}
 
 
 {{< tdclose >}}
@@ -213,7 +218,7 @@ No Readings
 {{< tdopen >}}
 Cell-like Materials
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week10)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week10" %}}
 
 
 {{< tdclose >}}
@@ -235,7 +240,7 @@ Hu C. J., L. Zhang, et al. "[Erythrocyte Membrane-camouflaged Polymeric Nanopart
 {{< tdopen >}}
 Repairing the Nervous System
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week11)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week11" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Tysseling-Mattiace, V. M., V. Sahni, et al. "[Self-Assembling Nanofibers Inhibit
 {{< tdopen >}}
 Final Class
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week12)
+{{% resource_link 4a9f307b-f917-0fae-ef25-b595a3460de8 "See the Lecture Summary" "#Week12" %}}
 
 
 {{< tdclose >}}
