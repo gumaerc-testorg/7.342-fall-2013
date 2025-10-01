@@ -132,7 +132,7 @@ In this next series of classes, we will draw on our knowledge of biophysical and
 Field Trip
 {{< tdclose >}}
 {{< tdopen >}}
-A behind the scenes look at some of the biomaterials science research focused on the cell-material interface in the laboratory of [Bob Langer](http://web.mit.edu/langerlab/).
+A behind the scenes look at some of the biomaterials science research focused on the cell-material interface in the laboratory of {{% resource_link "51dd3a3e-ec25-4084-b82e-9b4328a45779" "Bob Langer" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}

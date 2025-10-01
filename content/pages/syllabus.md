@@ -176,7 +176,7 @@ Hand out list of papers for oral presentations
 Field Trip
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to [Langer Research Laboratory](http://web.mit.edu/langerlab/)
+Visit to {{% resource_link "51dd3a3e-ec25-4084-b82e-9b4328a45779" "Langer Research Laboratory" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
